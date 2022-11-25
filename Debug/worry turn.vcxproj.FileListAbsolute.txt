@@ -1,0 +1,2 @@
+C:\Users\Temnik\source\repos\worry turn\Debug\worry turn.exe
+C:\Users\Temnik\source\repos\worry turn\Debug\worry turn.pdb
